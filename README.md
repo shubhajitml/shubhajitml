@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhajitml" alt="shubhajitml" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhajitml.github.io](shubhajitml.github.io)
+- 👨‍💻 All of my projects are available at [shubhajitml.github.io](https://shubhajitml.github.io)
 
 ### Skills
 
