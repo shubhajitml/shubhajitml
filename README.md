@@ -5,7 +5,7 @@
 
 - 👨‍💻 Know me better [shubhajitml.github.io](https://shubhajitml.github.io)
 
-- 📄 Know about my experiences [bit.ly/sdResume](https://bit.ly/sdResume)
+- 📄 Hiring ? [bit.ly/sdResume](https://bit.ly/sdResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
